@@ -32,7 +32,7 @@ h1, h2, h3, h4, h5,
   border-width: 2px; }
 
 .text-black {
-  color: rgb(45, 76, 133) !important; }
+  color: #fff !important; }
 
 .bg-black {
   background: #000 !important; }
@@ -132,11 +132,11 @@ h1, h2, h3, h4, h5,
   .site-footer .border-top {
     border-top: 1px solid rgba(255, 255, 255, 0.1) !important; }
   .site-footer p {
-    color: #737373; }
+    color: #96aac2; }
   .site-footer h2, .site-footer h3, .site-footer h4, .site-footer h5 {
     color: #fff; }
   .site-footer a {
-    color: #999999; }
+    color: #ffffff; }
     .site-footer a:hover {
       color: white; }
   .site-footer ul li {
@@ -1792,7 +1792,7 @@ h1, h2, h3, h4, h5,
     right: 0px;
     bottom: 0px;
     top: 20px;
-    background: #000;
+    background: #253452;
     width: 100%;
     z-index: -1;
     -webkit-transition: .3s all ease;
